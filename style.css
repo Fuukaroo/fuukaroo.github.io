@@ -1,0 +1,16 @@
+body {
+color: pink;
+font-family: 'Meiryo', sans-serif;
+}
+
+#main {
+background-color:grey;
+border: 1px soild;
+border-color:black;
+color: palevioletred;
+padding: 0px 20px 20px 20px;
+width:60%;
+height:auto;
+margin-left: 20%;
+margin-right: 20%;
+}
