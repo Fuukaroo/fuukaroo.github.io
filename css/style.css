@@ -1,6 +1,7 @@
 body {
 
-background-image: url('../images/moroccan-flower-dark.png');
+/*background-image: url('../images/moroccan-flower-dark.png');*/
+background-color: cornflowerblue;
 color: pink;
 font-family: 'Meiryo', sans-serif;
 text-align: center;
