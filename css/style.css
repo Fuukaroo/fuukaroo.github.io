@@ -1,5 +1,6 @@
 body {
 
+background-image: url(../images/moroccan-flower-dark.png);
 color: pink;
 font-family: 'Meiryo', sans-serif;
 text-align: center;
@@ -8,7 +9,7 @@ text-align: center;
 #main {
 background-color:grey;
 border: 1px soild;
-corder-color:black;
+border-color:black;
 color: pink ;
 padding: 0px 20px 20px 20px;
 width:60%;
