@@ -8,12 +8,12 @@ text-align: center;
 }
 
 #main {
-background-color:grey;
+background-color:paleturquoise;
 border: 1px solid;
 border-color:black;
 color: pink ;
 padding: 0px 20px 20px 20px;
-width:60%;
+width:auto;
 height:auto;
 margin-left: 20%;
 margin-right: 20%;
