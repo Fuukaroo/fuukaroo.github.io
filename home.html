@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-US">
+    <script src="https://cdn.jsdelivr.net/npm/hydra-synth/dist/hydra-synth.js"></script>
+    <script>
+        var hydra = new Hydra({ detectAudio: false })
+        osc(7.5,.05,8.5).diff(osc(7.5,-.05,[2, 3, 4].smooth()).rotate(75)).saturate(.5).modulateRotate(shape(10,.3,6),4,5).modulateScale(osc(1,.75,2)).layer(osc(75,.1,9).kaleid(6).mask(voronoi(100,2,2))).out(o0)
+    </script>
+    
     <head>
         <title>Fuuka's Fortress</title>
         <meta charset="utf-8"/>
